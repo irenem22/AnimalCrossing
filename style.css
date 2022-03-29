@@ -12,7 +12,7 @@ h1 {
 
 p, li, a {
 	font-family: "Avenir", sans-serif;
-	font-size:  18px;
+	font-size:  20px;
 }
 
 li {
@@ -37,6 +37,23 @@ img {
 }
 
 a:hover {
-	color: #3D348B;
+	color: #E0E2DB;
 }
 
+.links {
+	background: #357266;
+	height: 120px;
+	width: 100%;
+}
+
+.heading {
+	background: #357266;
+	height: 80px;
+	width: 100%;
+}
+
+.home {
+	background: #357266;
+	height: 30px;
+	width: 100%;
+}
